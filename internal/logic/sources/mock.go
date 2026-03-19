@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/elvanforge/glimmerscope/internal/models"
+	"github.com/ElvanForge/glimmerscope/internal/models"
 )
 
 type MockSource struct{}
