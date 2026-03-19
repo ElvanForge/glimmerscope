@@ -1,0 +1,10 @@
+# Binaries
+bin/
+glimmerscope
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Go coverage
+*.out
